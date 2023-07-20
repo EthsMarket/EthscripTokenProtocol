@@ -42,5 +42,6 @@ The security of the contract is completed by me and Tom Lehman, Ethscriptions Pr
 ## Token splitting of $eths
 The splitting of $eths is completely based on the collection. The collection of $eths has been opened to the public before the launch on the mainnet, and anyone can query and verify it. 
 https://github.com/EthsMarket/eths_collection 
+ 
 There are a total of 21,000 valid ethscriptions, with each ethscriptions corresponding to 1,000 tokens. The maximum number of tokens that can be split is 21,000,000. 
 The total supply will never be greater than 21,000,000.
