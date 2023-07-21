@@ -31,7 +31,8 @@ https://etherscan.io/token/0xbc84df7760c3cd3236c7f1b372535a6eaa7619cd
 ### Verification 
 We choose to verify the code using Sourcify. 
 Sourcify is an Ethereum official code verification tool, you can find it here. 
-https://github.com/ethereum/sourcify
+https://github.com/ethereum/sourcify 
+
 https://repo.sourcify.dev/select-contract/ 
 
 ![EthscripTokenProtocol](./images/s_2.png "EthscripTokenProtocol") 
