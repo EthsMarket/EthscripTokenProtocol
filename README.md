@@ -25,8 +25,8 @@ https://github.com/EthsMarket/EthscripTokenProtocol_Contract
 
 
 ## Contract Deploy 
-https://etherscan.io/address/0x1ab5c8bde1b58a81ae59bdb459d7e1273abadf4b 
-https://etherscan.io/token/0xbc84df7760c3cd3236c7f1b372535a6eaa7619cd 
+https://eth.blockscout.com/address/0x1ab5c8bdE1B58A81Ae59BDB459d7e1273ABADF4B?tab=txs
+https://eth.blockscout.com/token/0xbC84df7760C3CD3236c7f1b372535a6EAA7619cD
 
 ### Verification 
 We choose to verify the code using Sourcify. 
@@ -34,7 +34,6 @@ Sourcify is an Ethereum official code verification tool, you can find it here.
 
 https://github.com/ethereum/sourcify 
 
-https://repo.sourcify.dev/select-contract/ 
 
 ![EthscripTokenProtocol](./images/s_2.png "EthscripTokenProtocol") 
 ![EthscripTokenProtocol](./images/s_3.png "EthscripTokenProtocol") 
